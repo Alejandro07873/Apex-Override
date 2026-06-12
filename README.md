@@ -8,12 +8,14 @@ Whether you need to batch-package `.pak` files, inject textures directly into `.
 
 <p align="center">
 
-<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152307" src="https://github.com/user-attachments/assets/f31c067c-8435-4952-b60c-4568cdaee47f" />
-<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152305" src="https://github.com/user-attachments/assets/38ece0d6-c3f2-42a2-abe2-2b938a914f63" />
-<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152303" src="https://github.com/user-attachments/assets/f3af01bc-0e8e-4f76-b9c0-20b15cbc5df1" />
-<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152300" src="https://github.com/user-attachments/assets/1d65d656-cbb8-44b2-acae-b87dd18b28c6" />
-  <img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152258" src="https://github.com/user-attachments/assets/56ded0a0-2599-44bf-8993-406ec467347d" />
-  <img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152256" src="https://github.com/user-attachments/assets/9a95d4d0-3032-4fc5-b330-10fddf6cf796" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152256" src="https://github.com/user-attachments/assets/faaf5a36-4b9f-48c5-871e-5eb7fb5c1e6b" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152258" src="https://github.com/user-attachments/assets/4235150a-17b9-4572-a511-08c0dd659f29" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152300" src="https://github.com/user-attachments/assets/ec700b81-6356-48aa-b14c-6bad6c961d09" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152303" src="https://github.com/user-attachments/assets/580a0cf2-5492-4004-bea3-45ed61903312" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152305" src="https://github.com/user-attachments/assets/4bb619cc-9c22-44b7-af22-dce872c12cac" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152307" src="https://github.com/user-attachments/assets/12f533f1-049b-43bc-91f0-4ae1b1f0efcd" />
+
+
 </p>
 
 ## ✨ Key Features
