@@ -7,12 +7,13 @@ Whether you need to batch-package `.pak` files, inject textures directly into `.
 ## 🖼️ Interface Preview
 
 <p align="center">
-  <img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152258" src="https://github.com/user-attachments/assets/2f1fc39f-8cd5-4572-b09d-d30c6fcd7205" />
-<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152300" src="https://github.com/user-attachments/assets/f1fb37d6-cd0b-4043-9b4f-c0166ad6ea6f" />
-<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152303" src="https://github.com/user-attachments/assets/131b4a50-e3fe-4cc3-abd4-7e5dffaeefa6" />
-<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152305" src="https://github.com/user-attachments/assets/32b67f3f-86e5-4d88-8f94-8bd995d1fcb3" />
-<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152307" src="https://github.com/user-attachments/assets/2f956b71-6271-4347-9df9-cc406ac6ec0d" />
-<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152256" src="https://github.com/user-attachments/assets/1d78a860-825c-4709-a67f-f44dc889f17c" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152307" src="https://github.com/user-attachments/assets/f31c067c-8435-4952-b60c-4568cdaee47f" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152305" src="https://github.com/user-attachments/assets/38ece0d6-c3f2-42a2-abe2-2b938a914f63" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152303" src="https://github.com/user-attachments/assets/f3af01bc-0e8e-4f76-b9c0-20b15cbc5df1" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152300" src="https://github.com/user-attachments/assets/1d65d656-cbb8-44b2-acae-b87dd18b28c6" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152258" src="https://github.com/user-attachments/assets/56ded0a0-2599-44bf-8993-406ec467347d" />
+<img width="1366" height="728" alt="Captura de pantalla 2026-06-12 152256" src="https://github.com/user-attachments/assets/9a95d4d0-3032-4fc5-b330-10fddf6cf796" />
+
 
 </p>
 
