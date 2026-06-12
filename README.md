@@ -34,17 +34,6 @@ Whether you need to batch-package `.pak` files, inject textures directly into `.
 
 ---
 
-## 🔬 Under the Hood (Technical Architecture)
-
-Apex Override is built with software engineering best practices in mind, ensuring a scalable and highly performant experience: 🖥️💡
-
-* 🧩 **Decoupled UI & Debouncing:** Built with PySide6, the visual construction (`UIManager`) is strictly decoupled from event logic. Text inputs utilize `QTimer` debouncing to prevent memory bottlenecks and crashes during rapid user input.
-* ⚡ **Asynchronous Multithreading:** Heavy operations (UnrealPak execution, Texture processing) are offloaded to secondary `QThread` workers. The app parses `subprocess.Popen` standard output in real-time to update progress bars, delivering a 100% fluid, non-blocking UI—matching the standard of professional game engines.
-* 💾 **Intelligent Memory Management:** Internal paths and file hierarchies are cached using dynamic dictionary pooling (`img_pool`, `uasset_pool`, `asignaciones`), drastically minimizing expensive disk I/O operations.
-* ⚙️ **Regex-Powered Cleanup Engine:** A dynamic pre-packaging routine uses custom expressions (like `*PhysicsAsset*.*` or `*_Skeleton.*`) to sanitize the build environment, automating what is traditionally a tedious manual process.
-
----
-
 ## 🧭 Quick Start Guide
 
 1. 🏁 Open **Apex Override**.
@@ -72,7 +61,7 @@ Apex Override is built with software engineering best practices in mind, ensurin
 
 * 🚨 This tool performs direct operations on `.uasset` files and uses external packaging scripts (`UnrealPak.exe`). **Always keep backups of your original Cooked data.**
 * 🛡️ If Windows Defender or your antivirus flags the executable, it is a **false positive**. This is a known behavior for Python-compiled executables (PyInstaller) that manage system files and subprocesses. The project is open-source and virus-free, but use it at your own discretion.
-* 📂 Ensure your `UnrealPak` batch files are correctly placed inside the internal `pkgE` folder for the packager to function.
+
 
 > *My goal is to contribute a powerful, optimized tool that makes working with Unreal Engine assets easier, faster, and much less repetitive for the modding community.* 🤝
 
